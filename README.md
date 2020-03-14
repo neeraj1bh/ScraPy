@@ -19,8 +19,8 @@ This will find and install the needed packages
 
 Usage
 =====
-In the scraper.py file. 
-Enter the amazon URL.
-Enter your user agent here 'Search google for My User Agent'.
-and Enter the price drop after you want to be notifed.
+In the scraper.py file\
+Enter the amazon URL\
+Enter your user agent here 'Search google for My User Agent'\
+and Enter the price drop after you want to be notifed\
 after that run the file.
