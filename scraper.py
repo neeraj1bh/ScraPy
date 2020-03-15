@@ -17,7 +17,7 @@ def check_price():
 	price = soup.find(id="priceblock_ourprice").get_text()
 	converted_price = float(price[0:5])
 
-	if(converted_price < ): # Enter the price drop after you want to be notifed
+	if(converted_price < ): # Enter the price drop after which you want to be notifed
 	    send_mail()
 
 	print(converted_price)
