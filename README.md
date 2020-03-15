@@ -22,5 +22,5 @@ Usage
 In the scraper.py file\
 Enter the amazon URL\
 Enter your user agent here 'Search google for My User Agent'\
-and Enter the price drop after you want to be notifed\
+and Enter the price drop after which you want to be notifed\
 after that run the file.
